@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">ГП Куманово</string>
+    <string name="title_activity_maps">Постојки во близина</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="spinner_title">Поаѓање</string>
+    <string name="search_line">Пребарај линија…</string>
+    <string name="header">ГРАДСКИ ПРЕВОЗ</string>
+    <string name="search_bus_stop">Пребарај постојка…</string>
+    <string name="details">ДЕТАЛИ</string>
+    <string name="import_text">Import</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="bus_stops">Постојки</string>
+    <string name="lines">Линии</string>
+    <string name="map">Мапа</string>
+    <string name="choose_time">Избери време на поаѓање:</string>
+    <string name="back">Назад кон линии</string>
+    <string name="bus_stop_header">ПОСТОЈКА</string>
+    <string name="back_bus_stop">Назад кон постојки</string>
+    <string name="privacy_policy">ПОЛИТИКА НА ПРИВАТНОСТ</string>
+    <string name="intro_privacy_policy">Tasevski Dev ја разви апликацијата ГП Куманово како апликација за приказ на податоци за градски превоз на ниво на Куманово. Оваа услуга е обезбедена од Tasevski Dev без трошоци и е наменета за користење како што е.</string>
+    <string name="gathering_info_header">Собирање и употреба на информации</string>
+    <string name="gathering_info">Апликацијата не користи услуги на трети лица кои можат да собираат информации што се користат за да ве идентификуваат, освен вашата локација за апликацијата да биде поефикасна, но не е неопходна за работа.</string>
+    <string name="change_privacy_policy">Промена на политика на приватност</string>
+    <string name="change_privacy_policy_content">Ние можеме да ја ажурираме нашата политика за приватност од време на време. Така, Ви препорачуваме периодично да ја разгледате оваа страница за какви било промени.</string>
+    <string name="about_header">ЗА АПЛИКАЦИЈАТА</string>
+    <string name="about_description1">ГП Куманово е апликација наменета за приказ на возниот ред, наоѓање на најблиските автобуски постојки
+        според Вашата локација и приказ на време на пристигнување на автобусите на скоро секоја постојка.
+        Информациите за времињата се добиени од превозниците на Општина Куманово и нивната точност зависи од истите, односно не се добиваат во реално време.
+        Доколку не е одредено времето на пристигање на автобусот за одредена постојка, ќе се испише предвидената временска рамка
+        на пристигање. </string>
+    <string name="about_description2">Забелешка: За да се пресмета одалеченоста до постојките, потребно е да ја вклучите локацијата на телефонот и да сте поврзани на интернет.</string>
+    <string name="about_description3">Апликацијата е подарок за Општина Куманово, развиена од Tasevski Dev.</string>
+    <string name="prevoznici">Превозници се:</string>
+    <string name="oli_travel">- ДППТ “ОЛИ ТРАВЕЛ” ДООЕЛ</string>
+    <string name="stuz">- ДППТ “ШТУЗ-ПАТНИЧКИ” ДООЕЛ</string>
+    <string name="joco_turs">- ДСТУ “ЈОЦО-ТУРС-МС” ДОО</string>
+    <string name="nazad">Назад</string>
+    <string name="contact_description">Доколку имате нејасни информации, предлози или поплаки во врска со нашата апликација исконтактирајте не\' во било кое време на:</string>
+    <string name="contact">КОНТАКТ</string>
+    <string name="mail">tasevskidev@gmail.com</string>
+    <string name="nazadPostojki">назад кон постојки</string>
+    <string name="turnGps">Вклучете GPS.</string>
+</resources>

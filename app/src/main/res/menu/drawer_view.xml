@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/loyalty"
+            android:title="За апликацијата" />
+        <item
+            android:id="@+id/nav_policy"
+            android:icon="@drawable/policy"
+            android:title="Политика на приватност" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/contact"
+            android:title="Контакт" />
+</menu>
